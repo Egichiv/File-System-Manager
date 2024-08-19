@@ -1,0 +1,12 @@
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.csproj.AssemblyReference.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.AssemblyInfo.cs
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\bin\Debug\net7.0\Lab4.deps.json
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\bin\Debug\net7.0\Lab4.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\bin\Debug\net7.0\Lab4.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\refint\Lab4.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\Lab4.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab4\obj\Debug\net7.0\ref\Lab4.dll
